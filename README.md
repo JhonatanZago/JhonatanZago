@@ -101,6 +101,17 @@ Me chamo Jhonatan Carvalho Zago, tenho 20 anos e sou natural de São Paulo. Atua
 <br/>
 <br/>
 
+<h2 align="center">🐍 Minhas Contribuições</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/JhonatanZago/JhonatanZago/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/JhonatanZago/JhonatanZago/output/github-snake.svg">
+  <img alt="Snake animation"
+    src="https://raw.githubusercontent.com/JhonatanZago/JhonatanZago/output/github-snake.svg">
+</picture>
+
 ### 📊 Estatísticas
 
 <img 
